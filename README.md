@@ -2,13 +2,7 @@
 
 ## About Me
 
-I'm Ayush Malik, a passionate student pursuing a Bachelor's in Computer Science and Engineering from Jaypee Institute of Information and Technology. My journey in the world of technology revolves around web development and the fascinating realms of Artificial Intelligence/Machine Learning.
-
-## What I Do
-
-- 💻 Proficient in web development, I enjoy crafting dynamic and user-friendly websites that deliver seamless experiences.
-- 🤖 Fascinated by AI/ML, I'm always exploring its applications, from predictive analytics to natural language processing.
-- 🚀 Actively participating in hackathons and tech events to collaborate with peers, learn from experts, and push the boundaries of technology.
+I'm Ayush Malik, a passionate student pursuing a Bachelor's in Computer Science and Engineering from Jaypee Institute of Information and Technology. My journey in the world of technology revolves around web development and the fascinating realms of Artificial Intelligence/Machine Learning. Apart from that, love reading classic murder mysteries a lot!
 
 ## Get in Touch
 
